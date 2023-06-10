@@ -1,6 +1,12 @@
 # agoodusedbook
 
-<span style="color: red;">This text will be red.</span>
+<style>
+  .red-text {
+    color: red;
+  }
+</style>
+
+<span class="red-text">This text will be red.</span>
 ![Books](https://www.janclaes.be/wp-content/uploads/2017/08/Banner-Book-byJC-750x278.jpg)
 
 ## Introduction
@@ -32,7 +38,9 @@ __Bold text__
 
 ### 4. Images
 
-![Alt text](image.jpg)
+![Alt text](https://www.pngitem.com/pimgs/m/19-197816_kawaii-banners-para-youtube-banner-kawaii-para-youtube.png)
+
+replace url with image.jpg path ./image.jpg
 
 ### 5. Blockquote
 
@@ -44,7 +52,8 @@ This is an `inline code` example.
 
 ### 7. Horizontal rule
 
-create horizontal rule
+leave space below text for ruler.
+
 ---
 
 ***
