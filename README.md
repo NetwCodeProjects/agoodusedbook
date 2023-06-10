@@ -1,12 +1,6 @@
 # agoodusedbook
 
-<style>
-  .red-text {
-    color: red;
-  }
-</style>
-
-<span class="red-text">This text will be red.</span>
+Welcome to the updated README!
 ![Books](https://www.janclaes.be/wp-content/uploads/2017/08/Banner-Book-byJC-750x278.jpg)
 
 ## Introduction
